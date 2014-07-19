@@ -7,6 +7,8 @@ I searched the web but did not find Java based FUSE Mirror Files System. So I de
 
 To the best of my knowledge, this is the first JAVA based Mirror File System shared publically on web.
 
+It has both read and write functionalities. 
+
 -----------------------------
 
 Java Fuse Mirror File System is developed using FUSE-JNA (FUSE Java Binding). 
