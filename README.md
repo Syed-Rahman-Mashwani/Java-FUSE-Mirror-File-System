@@ -3,7 +3,7 @@ Java FUSE Mirror File System
 
 Java FUSE Mirror File System
 
-I searched the web but did not find Java based FUSE Mirror File System. So I developed it shared it publically on github.
+I searched the web but did not find Java based FUSE Mirror File System. So I developed it and shared it publically on github.
 
 To the best of my knowledge, this is the first JAVA based Mirror File System shared publically on web.
 
