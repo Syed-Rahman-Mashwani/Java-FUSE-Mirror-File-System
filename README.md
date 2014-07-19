@@ -37,9 +37,9 @@ That’s it
 
 Licence
 ----------------------
-/*
- * Java Mirror File System
- * Copyright (C) 20014 Syed Rahman Mashwani <syed.rahman[REMOVE-IT]@upesh.edu.pk>
- * 
- * This software is released as-is under the GPL license. 
- */
+	/*
+	 * Java Mirror File System
+	 * Copyright (C) 20014 Syed Rahman Mashwani syed.rahman[REMOVE-IT]@upesh.edu.pk
+	 * 
+	 * This software is released as-is under the GPL license. 
+	 */
