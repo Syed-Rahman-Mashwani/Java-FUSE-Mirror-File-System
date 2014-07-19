@@ -23,6 +23,7 @@ Open it in eclipse.
 modify first two variable in java_mirror_file_system.java files as per your settings:
 
 e.g.
+
 	static File f_mountPoint = new File ("./target/mirrorFS"); // set mount point (path to a blank folder)
 	private final String mirroredFolder = "./target/mirrorFolder";  //set the path of a folder with you want to be mirrored.	
 
