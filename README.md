@@ -37,7 +37,7 @@ and RUN
 That’s it 
 
 
-Licence
+License 
 ----------------------
 	/*
 	 * Java Mirror File System
