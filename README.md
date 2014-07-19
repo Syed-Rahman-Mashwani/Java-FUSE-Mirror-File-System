@@ -1,4 +1,4 @@
-Java-FUSE-Mirror-File-System
+Java FUSE Mirror File System
 ============================
 
 Java FUSE Mirror File System
