@@ -1,9 +1,9 @@
 Java FUSE Mirror File System
 ============================
 
-I am curently working on Semantic File System Project (360ᵒ-SFS). Java FUSE Mirror File System is a of my 360ᵒ-SFS implementation.
+I am curently working on Semantic File System (360ᵒ-SFS) Project. Java FUSE Mirror File System is a part of my 360ᵒ-SFS implementation.
 
-I searched the web but did not find Java based FUSE Mirror File System. So, I make it public on github.
+I searched the web but did not find Java based FUSE Mirror File System. So, I made it public on github.
 
 To the best of my current knowledge, this is the first JAVA based Mirror File System shared publically on web.
 
