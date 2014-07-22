@@ -1,11 +1,11 @@
 Java FUSE Mirror File System
 ============================
 
-Java FUSE Mirror File System
+I am curently working on Semantic File System Project (360ᵒ-SFS). Java FUSE Mirror File System is a of my 360ᵒ-SFS implementation.
 
-I searched the web but did not find Java based FUSE Mirror File System. So I developed it and shared it publically on github.
+I searched the web but did not find Java based FUSE Mirror File System. So, I make it public on github.
 
-To the best of my knowledge, this is the first JAVA based Mirror File System shared publically on web.
+To the best of my current knowledge, this is the first JAVA based Mirror File System shared publically on web.
 
 It has both read and write functionalities. 
 
@@ -18,9 +18,9 @@ Fuse-JNA is downloadable from https://github.com/EtiennePerot/fuse-jna.
 
 --------------------------
 
-How To Run
+How To Run it (in Eclipse)
 -------------------------
-Open it in eclipse. 
+Open it  
 
 modify first two variable in java_mirror_file_system.java files as per your settings:
 
