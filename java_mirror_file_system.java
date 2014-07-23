@@ -28,12 +28,12 @@ import net.fusejna.util.FuseFilesystemAdapterFull;
 public class java_mirror_file_system extends FuseFilesystemAdapterFull
 {	
 	static File f_mountPoint = new File ("./target/mirrorFS"); // set mount point (path to a blank folder)
-	private final String mirroredFolder = "./target/mirrorFolder";  //set the path of a folder with you want to be mirrored.	
+	private final String mirroredFolder = "./target/mirrorFolder";  //set the path of a folder which you want to be mirrored.	
 	private final static String mountPoint = f_mountPoint.getAbsolutePath(); 
 	
 	public static void main(String args[]) throws FuseException
 	{		
-		new java_mirror_file_system().log(true).mount(mountPoint); //the same mount path should be saved in mountPoint variable as absolute path
+		new java_mirror_file_system().log(true).mount(mountPoint); 
 	}
 	
 	@Override
