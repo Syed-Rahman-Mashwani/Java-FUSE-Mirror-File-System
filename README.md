@@ -41,7 +41,7 @@ License
 ----------------------
 	/*
 	 * Java Mirror File System
-	 * Copyright (C) 20014 Syed Rahman Mashwani syed.rahman[REMOVE-IT]@upesh.edu.pk
+	 * Copyright (C) 20014 Syed Rahman Mashwani syed.rahman[REMOVE-IT]@uop.edu.pk
 	 * 
 	 * This software is released as-is under the GPL license. 
 	 */
